@@ -1,1 +1,2 @@
-These are scripts written for wrangling genomic data - use with cautionn and at own risk :)
+These are scripts written for wrangling genomic data - use with caution and at own risk :)
+(c) adeflamingh
